@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+    <Service >
+        <Connector port="8080"/>
+        <Engine name="Catalina">
+            <Host name="localhost" appBase="/Users/xubin/Documents/LG教育资料/code/Minicat/src/main/webapps"></Host>
+        </Engine>
+    </Service>
+</Server>
